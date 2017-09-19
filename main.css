@@ -1,0 +1,36 @@
+body {
+    background-color:#53117c
+}
+p {
+   color:yellow;
+}
+
+h1 {
+    color:#f4414d;
+    font-size: 60px;
+}
+
+h2 {
+     color:#117c7a;
+     font-family:sans-serif;
+}
+
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: orange;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
